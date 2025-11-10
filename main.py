@@ -13,7 +13,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8393762115:AAGmpRjoohA9lIyFAyZZNnbDNL3m5fmOiOI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8259091062:AAGx8cD1P8lMvc7g9xZni7_-C0YbPmt3VMY")
 ADMIN_IDS = {5690099705, 7407616559}
 
 DB_FILE = "learnlang.db"
